@@ -2,7 +2,7 @@ module.exports.db =[
   {
     "name": "Afghanistan",
     "iso": "af",
-    "code": "93"
+    "code": "93",
   },
   {
     "name": "Albania",
@@ -82,7 +82,15 @@ module.exports.db =[
   {
     "name": "Bangladesh",
     "iso": "bd",
-    "code": "880"
+    "code": "880",
+    "operators": [
+      {"name": "Grameenphone", "code": "17", "isValid": 10},
+      {"name": "Banglalink", "code": "19", "isValid": 10},
+      {"name": "Robi", "code": "18", "isValid": 10},
+      {"name": "Airtel", "code": "16", "isValid": 10},
+      {"name": "Teletalk", "code": "15", "isValid": 10},
+      {"name": "Rankstel", "code": "44", "isValid": 10},
+    ],
   },
   {
     "name": "Barbados",
