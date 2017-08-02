@@ -1,20 +1,20 @@
-# phone-number-checker
+# phone-number-information
 
-### Check phone/mobile number information like country, operator and is valid number;
+### Find and check phone/mobile number information like country, operator and is valid number;
 
 
 #### Install
 
 ```
-npm install phone-number-checker --save
+npm install phone-number-information --save
 ```
 
 #### Example
 
 ```
-var Phone = require('phone-number-check');
+var Phone = require('phone-number-information');
 
-console.log(Phone("+88019394197"));
+console.log(Phone("+8801739419745"));
 ```
 
 #### output
