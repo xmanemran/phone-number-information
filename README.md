@@ -6,7 +6,7 @@
 #### Install
 
 ```
-npm install phone-number-check --save
+npm install phone-number-checker --save
 ```
 
 #### Example
