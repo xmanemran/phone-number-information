@@ -1,6 +1,6 @@
 {
   "name": "phone-number-information",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Find any information about phone number. Like country code, operators, phone number example, valid phone number.",
   "main": "index.js",
   "scripts": {
