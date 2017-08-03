@@ -13,7 +13,7 @@ npm install phone-number-information --save
 
 #### Example
 
-```
+```javascript
 var phone = require('phone-number-information');
 
 console.log(phone.numberToInformation("+8801739419745"));
