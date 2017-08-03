@@ -9,7 +9,7 @@
 npm install phone-number-information --save
 ```
 
-### Version 2.0.0
+### Version 2.0.x
 
 #### Example
 
