@@ -17,6 +17,7 @@ module.exports = {
 		    		return false;
 		    	})[0];
 		    	delete value.operators;
+		    	delete value.example;
 				return returnObj;	
 			}
 			return obj;
