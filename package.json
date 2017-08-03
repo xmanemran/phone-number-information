@@ -1,7 +1,7 @@
 {
   "name": "phone-number-information",
-  "version": "1.0.0",
-  "description": "Find phone/mobile number information like country, operator and is valid number",
+  "version": "2.0.0",
+  "description": "Find any information about phone number. Like country code, operators, phone number example, valid phone number.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   "keywords": [
     "phone",
     "number",
-    "checker",
+    "phone number information",
     "phone number to country"
   ],
   "author": "Emran <xmanemran@gmail.com>",

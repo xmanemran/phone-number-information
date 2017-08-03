@@ -91,6 +91,7 @@ module.exports.db =[
       {"name": "Teletalk", "code": "15", "isValid": 10},
       {"name": "Rankstel", "code": "44", "isValid": 10},
     ],
+    "example": ["+8801739419745", "+88019XXXXXXXX"]
   },
   {
     "name": "Barbados",
